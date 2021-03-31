@@ -11,5 +11,10 @@
     "next": "10.1.2",
     "react": "17.0.2",
     "react-dom": "17.0.2"
+  },
+  "devDependencies": {
+    "svg-sprite-loader": "^6.0.2",
+    "svgo": "^2.3.0",
+    "svgo-loader": "^3.0.0"
   }
 }
